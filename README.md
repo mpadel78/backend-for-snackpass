@@ -1,1 +1,1 @@
-This is a part of fullstack web aplication assessment by Snackpass for their summer SDE/SWE internship. The web app was supposed tosome popular food menus in a specific time. The frontend of the application is. 
+This is a part of fullstack web aplication assessment by Snackpass for their summer SDE/SWE internship. The web app was supposed tosome popular food menus in a specific time. The frontend of the application is https://github.com/mpadel78/frontend-for-snackpass
